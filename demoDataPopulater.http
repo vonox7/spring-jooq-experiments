@@ -1,0 +1,91 @@
+# Click "Run All Requests in File" in IntelliJ to populate the demo data
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 1, "to": 2}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 1, "to": 3}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 2, "to": 4}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 2, "to": 5}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 3, "to": 6}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 3, "to": 7}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 3, "to": 8}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 3, "to": 9}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 7, "to": 10}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 100, "to": 101}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 2, "to": 11}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 12, "to": 13}
+
+
+###
+PUT http://localhost:8080/
+Content-Type: application/json
+
+{"from": 11, "to": 12}
