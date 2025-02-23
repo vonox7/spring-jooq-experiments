@@ -18,5 +18,5 @@ postgres=# GRANT ALL PRIVILEGES ON DATABASE spring_jooq_experiments TO postgres;
 * `DB_USER`, defaults to `postgres`
 * `DB_PASSWORD`, defaults to `postgres`
 
-3. Run the project with `./gradlew bootRun`
+3. Run the project with `./gradlew bootRun` to start a webserver on port 8080.
 4. Open the file `demoDataPopulater.http` to test the API.
