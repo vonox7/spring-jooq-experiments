@@ -8,4 +8,5 @@ class SpringJooqExperimentsApplication
 
 fun main(args: Array<String>) {
 	runApplication<SpringJooqExperimentsApplication>(*args)
+
 }
